@@ -1,0 +1,7 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <envs>
+      <env key="LOGNAME" value="root" />
+    </envs>
+  </component>
+</application>
