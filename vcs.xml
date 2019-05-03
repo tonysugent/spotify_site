@@ -10,10 +10,6 @@
           <option name="url" value="https://git-codecommit.us-east-1.amazonaws.com/v1/repos/HoggedRepo" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://git-codecommit.us-east-1.amazonaws.com/v1/repos/MVCTest" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/Python" />
