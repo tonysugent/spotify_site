@@ -1,9 +1,17 @@
 import oauth
-import spotipy
+from flask import request
+
 def home():
-    oauth.authorize()
-    return 'done'
+    return oauth.htmlforloginbutton()
+
+
 
 def top_played():
     return 'hi'
+
+
+def callback():
+    url = request.url
+    return oauth.callbackauthtoken(url)
+
 
